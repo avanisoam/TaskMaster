@@ -1,2 +1,2 @@
 # TaskMaster
-Win Form Application Created using Entity Framework
+This is not the actual Task Master.. The actual TaskMaster is TaskMasterEF.
